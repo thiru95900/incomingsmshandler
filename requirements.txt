@@ -47,8 +47,8 @@ xmltodict==0.13.0
 zipp==3.6.0
 
 
-git+https://thirupathi.reddy:thiru123@git.txtbox.in:8080/smcore/models.git@v4.9.8#egg=sm_models
-git+https://thirupathi.reddy:thiru123@git.txtbox.in:8080/smcore/dynamo-models.git@f6dee8d4c72f953eba5dc8fc6caab7ab69bbcdb8
-git+https://thirupathi.reddy:thiru123@git.txtbox.in:8080/smcore/utils.git@8af0b59d911bd30a53db4f5be06b0e333fb10375
-git+https://thirupathi.reddy:thiru123@git.txtbox.in:8080/smcore/send-task.git@v3.8#egg=send_task
+git+https://git.txtbox.in:8080/smcore/models.git@v4.9.8#egg=sm_models
+git+https://git.txtbox.in:8080/smcore/dynamo-models.git@f6dee8d4c72f953eba5dc8fc6caab7ab69bbcdb8
+git+https://git.txtbox.in:8080/smcore/utils.git@8af0b59d911bd30a53db4f5be06b0e333fb10375
+git+https://git.txtbox.in:8080/smcore/send-task.git@v3.8#egg=send_task
 
